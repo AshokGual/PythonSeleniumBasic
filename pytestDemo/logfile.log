@@ -1,0 +1,14 @@
+2023-08-17 12:57:54,410 : INFO : test_execute1 : log executed/................
+2023-08-17 12:57:54,421 : INFO : test_editProfile : information printed
+2023-08-17 12:57:54,421 : INFO : test_editProfile : ['ashok', 'kumar', 'gual']
+2023-08-17 12:57:54,422 : INFO : test_editProfile : gual
+2023-08-17 12:57:54,428 : WARNING : test_logging : warning messages printed
+2023-08-17 12:57:54,428 : ERROR : test_logging : error created
+2023-08-17 12:57:54,429 : CRITICAL : test_logging : critical message printed
+2023-08-17 13:03:19,948 : INFO : test_execute1 : log executed/................
+2023-08-17 13:03:19,965 : INFO : test_editProfile : information printed
+2023-08-17 13:03:19,965 : INFO : test_editProfile : ['ashok', 'kumar', 'gual']
+2023-08-17 13:03:19,967 : INFO : test_editProfile : gual
+2023-08-17 13:03:19,977 : WARNING : test_logging : warning messages printed
+2023-08-17 13:03:19,977 : ERROR : test_logging : error created
+2023-08-17 13:03:19,977 : CRITICAL : test_logging : critical message printed
